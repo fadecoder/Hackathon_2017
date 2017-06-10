@@ -2,7 +2,7 @@
 
 ## The Mars Challenge
 
-![Planet Mars](https://eos2git.cec.lab.emc.com/chenf15/hackathon/blob/master/documentation/images/mars-11608_640.jpg)
+![Planet Mars](https://github.com/alare/Hackathon_2017/blob/master/documentation/images/mars-11608_640.jpg)
 
 Welcome to the Mars Challenge! You and your team are about to embark on a
 space adventure that will challenge your **developer, operator, data analysis
@@ -27,7 +27,7 @@ You and your team will have at your disposal the necessary tools to survive and
 win the challenge, however you will need all wits and skills to work together
 and implement a solution that allows you to survive and outlast other teams.
 
-![Mars Challenge High Level Architecture](https://eos2git.cec.lab.emc.com/chenf15/hackathon/blob/master/documentation/images/Mars-challenge-high-level-architecture.png)
+![Mars Challenge High Level Architecture](https://github.com/alare/Hackathon_2017/blob/master/documentation/images/Mars-challenge-high-level-architecture.png)
 
 **Available hardware and software resources for each team:**
 - 1 x Raspberry Pi **per Team** to act as an atmospheric sensor
@@ -40,7 +40,7 @@ and implement a solution that allows you to survive and outlast other teams.
 - Deployment of the system needs to be automated using Deployment Tools.
 - All data from sensors and services needs to be logged.
 - All data needs be backed up on regular intervals.
-- Team solutions need to connect to the Mars Challenge [Game Controller](https://eos2git.cec.lab.emc.com/chenf15/hackathon/tree/master/game-controller)
+- Team solutions need to connect to the Mars Challenge [Game Controller](https://github.com/alare/Hackathon_2017/tree/master/game-controller)
 
 **What should you accomplish from participating on this Hackathon?**
 
@@ -53,7 +53,7 @@ This Hackathon will challenge you to accomplish the following:
   Docker Swarm, Compose, Mesos, or Kubernetes).
 - Develop an application on the Internet of Things (IoT) space.
 
-**For more details refer to the: [Mars Challenge Instructions document](https://eos2git.cec.lab.emc.com/chenf15/hackathon/blob/master/documentation/Mars-challenge-instructions.md)**
+**For more details refer to the: [Mars Challenge Instructions document](https://github.com/alare/Hackathon_2017/blob/master/documentation/Mars-challenge-instructions.md)**
 
 ## License & Contributions
 
