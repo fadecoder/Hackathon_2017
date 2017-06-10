@@ -14,7 +14,7 @@ RUN npm install bower grunt-cli -g &&\
   npm install grunt
 
 WORKDIR /opt
-RUN git clone https://github.com/alare/Hackathon_2017
+RUN git clone https://github.com/codedellemc/mars-challenge
 
 WORKDIR /opt/mars-challenge/dashboard/
 
