@@ -101,7 +101,7 @@ services:
 |----|----|
 |SensorSuite Service| [https://github.com/alare/Hackathon_2017/tree/master/sensorsuite](https://github.com/alare/Hackathon_2017/tree/master/sensorsuite)|
 |Aggregator Service| [https://github.com/alare/Hackathon_2017/tree/master/aggregator](https://github.com/alare/Hackathon_2017/tree/master/aggregator)|
-|Team Command & Control| [https://github.com/alare/Hackathon_2017/tree/master/clients/python](https://github.com/alare/Hackathon_2017/tree/master/clients/python)|
+|Team Command & Control| [https://github.com/alare/Hackathon_2017/tree/master/clients](https://github.com/alare/Hackathon_2017/tree/master/clients)|
 |Game Controller| [https://github.com/alare/Hackathon_2017/tree/master/game-controller](https://github.com/alare/Hackathon_2017/tree/master/game-controller)|
 |Game Controller Dashboard| [https://github.com/alare/Hackathon_2017/tree/master/dashboard](https://github.com/alare/Hackathon_2017/tree/master/dashboard)|
 |RaspBerry Pi Sensor Setup| [https://github.com/alare/Hackathon_2017/blob/master/documentation/Raspberry-Go-Weather-Simulator-Setup.md](https://github.com/alare/Hackathon_2017/blob/master/documentation/Raspberry-Go-Weather-Simulator-Setup.md)|
