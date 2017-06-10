@@ -144,7 +144,7 @@ In order to implement section 1 you will need the following components:
 |Controller Dashboard| [https://hub.docker.com/r/emccode/mars-challenge-dashboard/](https://hub.docker.com/r/emccode/mars-challenge-dashboard/ "Controller Dashboard")|
 
 A Demo implementations of a Command and Control (Tier 5) Service, implemented in
-Python, is located in the following folder: [https://github.com/alare/Hackathon_2017/tree/master/clients/python](https://github.com/alare/Hackathon_2017/tree/master/clients/python "Command and Control Demo")
+Python, is located in the following folder: [https://github.com/alare/Hackathon_2017/tree/master/clients](https://github.com/alare/Hackathon_2017/tree/master/clients "Command and Control Demo")
 
 Once you have the components in place, you and your team will have to create a
 deployment and orchestrate how services are deployed in a specific order:
@@ -253,7 +253,7 @@ The last step is to execute the Command and Control Center code. You can run the
 code directly or run it as a container.
 
 A Demo of a Command and Control (Tier 5) Center, implemented in Python, is
-provided and is located in the following folder: [https://github.com/alare/Hackathon_2017/tree/master/clients/python](https://github.com/alare/Hackathon_2017/tree/master/clients/python "Command and Control Demo")
+provided and is located in the following folder: [https://github.com/alare/Hackathon_2017/tree/master/clients](https://github.com/alare/Hackathon_2017/tree/master/clients "Command and Control Demo")
 
 The Demo implements all the interfaces provided by the Game Controller and
 implements shield operations based on sensor data.
@@ -264,7 +264,7 @@ For our example we will run the code directly from command line/terminal:
    `https://github.com/alare/Hackathon_2017/`.
     You can perform a git clone:
     `git clone https://github.com/alare/Hackathon_2017.git`
-2. Navigate to the `/clients/python` folder
+2. Navigate to the `/clients` folder
 3. Edit the `Team-client.py` file. On lines 16 and 17, change the Values of the
    **IP address and ports** to the ones that you used for the Game Controller.
    These are the variables:
